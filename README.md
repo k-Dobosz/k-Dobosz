@@ -1,12 +1,14 @@
-### Hi there, I'm Konrad 👋
+### Hi, I'm Konrad 👋
 
-I'm a software engineering student at **Silesian University of Technology** in Katowice.
+I'm a software engineering student at the **Silesian University of Technology** in Katowice.
 
 
 ---
 - 🔭 I’m currently working on **CarUI & project-hogwart 🤓**
 - 🌱 I’m currently learning **Typescript**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/konrad-dobosz-18310b1a2), [Email](mailto:kdobosz02@gmail.com)
+- 📫 How to reach me:
+  - LinkedIn - [Konrad Dobosz](https://www.linkedin.com/in/konrad-dobosz-18310b1a2),
+  - Email - [kdobosz02@gmail.com](mailto:kdobosz02@gmail.com)
 
 <details>
   <summary>⚡ Wakatime stats</summary>
