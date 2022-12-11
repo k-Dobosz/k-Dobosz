@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Konrad 👋
 
-I'm Konrad, a young self-taught web developer.
+I'm a software engineering student at **Silesian University of Technology** in Katowice.
 
 
 ---
-- 🔭 I’m currently working on **something cool 🤭**
+- 🔭 I’m currently working on **CarUI & project-hogwart 🤓**
 - 🌱 I’m currently learning **Typescript**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/konrad-dobosz-18310b1a2), [Email](mailto:kdobosz02@gmail.com)
 
