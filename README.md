@@ -7,7 +7,7 @@ I'm a Industrial Informatics student at the **Silesian University of Technology*
 - 🔭 I’m currently working on **CarUI & CinemaSeat**
 - 🌱 I’m currently learning **Typescript**
 - 📫 How to reach me:
-  - LinkedIn - [Konrad Dobosz](https://www.linkedin.com/in/konrad-dobosz-18310b1a2),
+  - LinkedIn - [Konrad Dobosz](https://www.linkedin.com/in/kdobosz02),
   - Email - [kdobosz02@gmail.com](mailto:kdobosz02@gmail.com)
 
 <details>
